@@ -1,2 +1,2 @@
 # dnn_games_tutorials
-Tutorials for different DNN for Atari Games
+Tutorials for different DNNs for Atari Games
